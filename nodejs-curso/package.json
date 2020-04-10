@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-curso",
+  "version": "0.0.1",
+  "description": "Curso de nodeJS",
+  "main": "C01_funciones.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node C07_index_express.js",
+    "funciones": "node C01_index_funciones.js"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español-latino"
+  ],
+  "author": "Antonio",
+  "license": "ISC"
+}
